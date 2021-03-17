@@ -15,6 +15,8 @@
 		0E7A46D22601CAFB00DB8FBC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E7A46D02601CAFB00DB8FBC /* LaunchScreen.storyboard */; };
 		0E7A46DD2601CAFB00DB8FBC /* Cert_Dynamic_FontTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7A46DC2601CAFB00DB8FBC /* Cert_Dynamic_FontTests.swift */; };
 		0E7A46E82601CAFB00DB8FBC /* Cert_Dynamic_FontUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7A46E72601CAFB00DB8FBC /* Cert_Dynamic_FontUITests.swift */; };
+		0E82F2D526023F4F0065F922 /* Cert_BG.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 0E82F2D426023F4F0065F922 /* Cert_BG.PNG */; };
+		0E82F2DA26023F630065F922 /* Cert_Sample.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 0E82F2D926023F620065F922 /* Cert_Sample.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		0E7A46E32601CAFB00DB8FBC /* Cert_Dynamic_FontUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Cert_Dynamic_FontUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E7A46E72601CAFB00DB8FBC /* Cert_Dynamic_FontUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cert_Dynamic_FontUITests.swift; sourceTree = "<group>"; };
 		0E7A46E92601CAFB00DB8FBC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E82F2D426023F4F0065F922 /* Cert_BG.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Cert_BG.PNG; path = "../../../../../Desktop/XCode 실습이미지/Cert_BG.PNG"; sourceTree = "<group>"; };
+		0E82F2D926023F620065F922 /* Cert_Sample.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Cert_Sample.PNG; path = "../../../../../Desktop/XCode 실습이미지/Cert_Sample.PNG"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +103,8 @@
 		0E7A46C42601CAFA00DB8FBC /* Cert_Dynamic_Font */ = {
 			isa = PBXGroup;
 			children = (
+				0E82F2D926023F620065F922 /* Cert_Sample.PNG */,
+				0E82F2D426023F4F0065F922 /* Cert_BG.PNG */,
 				0E7A46C52601CAFA00DB8FBC /* AppDelegate.swift */,
 				0E7A46C72601CAFA00DB8FBC /* SceneDelegate.swift */,
 				0E7A46C92601CAFA00DB8FBC /* ViewController.swift */,
@@ -231,6 +237,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E82F2DA26023F630065F922 /* Cert_Sample.PNG in Resources */,
+				0E82F2D526023F4F0065F922 /* Cert_BG.PNG in Resources */,
 				0E7A46D22601CAFB00DB8FBC /* LaunchScreen.storyboard in Resources */,
 				0E7A46CF2601CAFB00DB8FBC /* Assets.xcassets in Resources */,
 				0E7A46CD2601CAFA00DB8FBC /* Main.storyboard in Resources */,
